@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foe_Test", "Foe_Test\Foe_Test.csproj", "{A3987B3B-2ECA-467F-AF1C-31C51D97D3F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google_API", "Google_API\Google_API.csproj", "{F25ECE76-6B6C-45AD-B8B7-79CD4DCE86D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3987B3B-2ECA-467F-AF1C-31C51D97D3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3987B3B-2ECA-467F-AF1C-31C51D97D3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3987B3B-2ECA-467F-AF1C-31C51D97D3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3987B3B-2ECA-467F-AF1C-31C51D97D3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F25ECE76-6B6C-45AD-B8B7-79CD4DCE86D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F25ECE76-6B6C-45AD-B8B7-79CD4DCE86D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F25ECE76-6B6C-45AD-B8B7-79CD4DCE86D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F25ECE76-6B6C-45AD-B8B7-79CD4DCE86D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {691F1F67-7069-40C6-8494-1EF169BB5B35}
+	EndGlobalSection
+EndGlobal

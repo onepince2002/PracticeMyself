@@ -1,0 +1,11 @@
+C:\Users\Eli\source\repos\Foe_Test\Google_API\bin\Debug\netcoreapp2.1\Google_API.deps.json
+C:\Users\Eli\source\repos\Foe_Test\Google_API\bin\Debug\netcoreapp2.1\Google_API.runtimeconfig.json
+C:\Users\Eli\source\repos\Foe_Test\Google_API\bin\Debug\netcoreapp2.1\Google_API.runtimeconfig.dev.json
+C:\Users\Eli\source\repos\Foe_Test\Google_API\bin\Debug\netcoreapp2.1\Google_API.dll
+C:\Users\Eli\source\repos\Foe_Test\Google_API\obj\Debug\netcoreapp2.1\Google_API.csprojAssemblyReference.cache
+C:\Users\Eli\source\repos\Foe_Test\Google_API\obj\Debug\netcoreapp2.1\Google_API.csproj.CoreCompileInputs.cache
+C:\Users\Eli\source\repos\Foe_Test\Google_API\obj\Debug\netcoreapp2.1\Google_API.AssemblyInfoInputs.cache
+C:\Users\Eli\source\repos\Foe_Test\Google_API\obj\Debug\netcoreapp2.1\Google_API.AssemblyInfo.cs
+C:\Users\Eli\source\repos\Foe_Test\Google_API\bin\Debug\netcoreapp2.1\Google_API.pdb
+C:\Users\Eli\source\repos\Foe_Test\Google_API\obj\Debug\netcoreapp2.1\Google_API.dll
+C:\Users\Eli\source\repos\Foe_Test\Google_API\obj\Debug\netcoreapp2.1\Google_API.pdb

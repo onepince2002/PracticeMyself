@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Foe_Test.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="val" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-8" ?&gt;&lt;configuration&gt; &lt;startup&gt; &lt;supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" /&gt; &lt;/startup&gt;&lt;appSettings&gt; &lt;add key="Lable.Port1" value="MessageID"/&gt; &lt;add key="Lable.Port2" value="SendingBaseTag"/&gt; &lt;add key="Lable.Port3" value="SendingMachineName"/&gt; &lt;add key="Lable.Port4" value="MessageQueuePathName"/&gt; &lt;add key="Lable.Port5" value="CustomField1"/&gt; &lt;add key="Lable.Port6" value="CustomField2"/&gt; &lt;add key="Body.Port1" value="DataMode"/&gt; &lt;add key="Body.Port2" value="DataModeID"/&gt; &lt;add key="Body.Port3" value="ExperimentID"/&gt; &lt;add key="Body.Port4" value="BasePenType"/&gt; &lt;add key="Body.Port5" value="BasePenTypeID"/&gt; &lt;add key="Body.Port6" value="MID"/&gt; &lt;add key="Body.Port7" value="StationTag"/&gt; &lt;add key="Body.Port8" value="DateTime"/&gt; &lt;add key="Body.Port9" value="Path1"/&gt; &lt;add key="Body.Port10" value="EquipmentID1"/&gt; &lt;add key="Body.Port11" value="Path2"/&gt; &lt;add key="Body.Port12" value="EquipmentID2"/&gt;&lt;/appSettings&gt;&lt;/configuration&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
