@@ -93,7 +93,7 @@ namespace Google_API
                 //設定環境變數GOOGLE_APPLICATION_CREDENTIALS
                 //安裝google sdk : Install-Package Google.Cloud.Vision.V1 -Pre
                 //http://vacvin.blogspot.com/2017/09/net-google-vision-api.html
-                Console.WriteLine("無法辨識");
+                Console.WriteLine("無法辨識!!!");
             }
             Console.ReadKey();
         }
